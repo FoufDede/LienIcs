@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Organization//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:pinault-visit-12-12-2024@example.com
+DTSTAMP:20241205T120000Z
+DTSTART:20241212T140000Z
+DTEND:20241212T160000Z
+SUMMARY:Visite à la Collection Pinault
+LOCATION:Collection Pinault - Bourse de Commerce, Paris
+DESCRIPTION:Visite guidée de la collection d'art contemporain.
+END:VEVENT
+END:VCALENDAR
